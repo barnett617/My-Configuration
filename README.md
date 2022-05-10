@@ -29,3 +29,7 @@
 ## Terminal
 
 - [iTerm2](https://iterm2.com/)
+
+## Shell
+
+- [oh-my-zsh](https://ohmyz.sh/)
